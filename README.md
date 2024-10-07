@@ -2,3 +2,7 @@
 -----------------
 
 Repositorio con avances para el curso de Seminario de Tesis 1. 
+
+Alumno: Nicolas Silva Andujar
+
+Código: 20200832
