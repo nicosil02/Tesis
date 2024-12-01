@@ -1,5 +1,3 @@
-## Tesis
------------------
-Avances de tesis de Nicolas Silva Andujar sobre actitudes antidemocráticas.
-
-Enlace a base de datos: https://github.com/nicosil02/Tesis/blob/main/Data_entrega1.xlsx
+# Tesis_PUCP
+This is a Project for a Legislative Analysis of the Budget Comision (2016-2024)
+-Nico
